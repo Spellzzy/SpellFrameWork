@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1635216409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae2de4a7c27d9e0c0bff8ec7aa240e09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e24e095703ab378171907c097b40f08
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 996336f0e1057b24caae61943b8b95f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21b47a1d00b85534195afea045d5cf34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Model/NPC.prefab
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/22d81455238b7b649aa1661ec2803317.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab

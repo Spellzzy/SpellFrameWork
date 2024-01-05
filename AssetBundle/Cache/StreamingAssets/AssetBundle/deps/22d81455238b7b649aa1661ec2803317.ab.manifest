@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2226020078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d3076ce8ab862874cc63c146047f679
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Animation/Orc/Orc.controller
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/2cfdfa0ba52289c47b2af2dc0e8a6134.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/4dd77f16ade7063479a7ce3adf6ed335.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/941726f8a0c7f394a8e0f417dcdc3aea.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/bab4bb1968a093a44a263cd354487f49.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/d9d118d47f882684d8c1241bc310c943.ab

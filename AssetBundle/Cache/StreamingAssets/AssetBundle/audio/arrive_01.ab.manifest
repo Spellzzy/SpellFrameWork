@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 680833965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54fa6cbcb0d6ab1b454dd7d1f1d4a5b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Audio/Effect/arrive_01.ogg
+Dependencies: []

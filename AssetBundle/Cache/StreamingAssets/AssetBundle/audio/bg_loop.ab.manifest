@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2279122019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaadd6a599f905983c45c0de9d4f836d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Audio/Bg/bg_loop.ogg
+Dependencies: []

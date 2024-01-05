@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 1578922212
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model/cube.ab
+      Dependencies: {}
+    Info_1:
+      Name: model/damagepopup.ab
+      Dependencies:
+        Dependency_0: deps/8f586378b4e144a9851e7b34d9b748ee.ab
+    Info_2:
+      Name: model/gameassets.ab
+      Dependencies:
+        Dependency_0: model/damagepopup.ab
+    Info_3:
+      Name: model/npc.ab
+      Dependencies:
+        Dependency_0: deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab
+        Dependency_1: deps/22d81455238b7b649aa1661ec2803317.ab
+    Info_4:
+      Name: model/orc.ab
+      Dependencies:
+        Dependency_0: deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab
+        Dependency_1: deps/22d81455238b7b649aa1661ec2803317.ab
+    Info_5:
+      Name: audio/bg_loop.ab
+      Dependencies: {}
+    Info_6:
+      Name: audio/alert_01.ab
+      Dependencies: {}
+    Info_7:
+      Name: audio/arrive_01.ab
+      Dependencies: {}
+    Info_8:
+      Name: audio/beijing_01.ab
+      Dependencies: {}
+    Info_9:
+      Name: audio/brake_01.ab
+      Dependencies: {}
+    Info_10:
+      Name: audio/openbox.ab
+      Dependencies: {}
+    Info_11:
+      Name: ui/common_atlas.ab
+      Dependencies: {}
+    Info_12:
+      Name: ui/common_fui.ab
+      Dependencies: {}
+    Info_13:
+      Name: deps/ee148e281f3c41c5b4ff5f8a5afe5a6c.ab
+      Dependencies: {}
+    Info_14:
+      Name: deps/shaders.ab
+      Dependencies: {}
+    Info_15:
+      Name: deps/2fd6421f253b4ef1a19526541f9ffc0c.ab
+      Dependencies: {}
+    Info_16:
+      Name: deps/2e498d1c8094910479dc3e1b768306a4.ab
+      Dependencies:
+        Dependency_0: deps/shaders.ab
+        Dependency_1: deps/e3265ab4bf004d28a9537516768c1c75.ab
+    Info_17:
+      Name: deps/8f586378b4e144a9851e7b34d9b748ee.ab
+      Dependencies:
+        Dependency_0: deps/shaders.ab
+        Dependency_1: deps/2e498d1c8094910479dc3e1b768306a4.ab
+        Dependency_2: deps/e3265ab4bf004d28a9537516768c1c75.ab
+    Info_18:
+      Name: deps/e3265ab4bf004d28a9537516768c1c75.ab
+      Dependencies: {}
+    Info_19:
+      Name: deps/4dd77f16ade7063479a7ce3adf6ed335.ab
+      Dependencies:
+        Dependency_0: deps/143acf6d2282f9944a665b71229a5a72.ab
+    Info_20:
+      Name: deps/8abab9f6f7cf6d14099b96e573c7b88b.ab
+      Dependencies: {}
+    Info_21:
+      Name: deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab
+      Dependencies: {}
+    Info_22:
+      Name: deps/63c8fb88ea7b81741bbdd3c1151cd729.ab
+      Dependencies: {}
+    Info_23:
+      Name: deps/bab4bb1968a093a44a263cd354487f49.ab
+      Dependencies:
+        Dependency_0: deps/4ffcce8e97abeee45ba24378d46c2c98.ab
+    Info_24:
+      Name: deps/d9d118d47f882684d8c1241bc310c943.ab
+      Dependencies:
+        Dependency_0: deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab
+    Info_25:
+      Name: deps/143acf6d2282f9944a665b71229a5a72.ab
+      Dependencies: {}
+    Info_26:
+      Name: deps/2cfdfa0ba52289c47b2af2dc0e8a6134.ab
+      Dependencies:
+        Dependency_0: deps/8abab9f6f7cf6d14099b96e573c7b88b.ab
+    Info_27:
+      Name: deps/22d81455238b7b649aa1661ec2803317.ab
+      Dependencies:
+        Dependency_0: deps/4dd77f16ade7063479a7ce3adf6ed335.ab
+        Dependency_1: deps/bab4bb1968a093a44a263cd354487f49.ab
+        Dependency_2: deps/d9d118d47f882684d8c1241bc310c943.ab
+        Dependency_3: deps/2cfdfa0ba52289c47b2af2dc0e8a6134.ab
+        Dependency_4: deps/941726f8a0c7f394a8e0f417dcdc3aea.ab
+    Info_28:
+      Name: deps/4ffcce8e97abeee45ba24378d46c2c98.ab
+      Dependencies: {}
+    Info_29:
+      Name: deps/941726f8a0c7f394a8e0f417dcdc3aea.ab
+      Dependencies:
+        Dependency_0: deps/63c8fb88ea7b81741bbdd3c1151cd729.ab

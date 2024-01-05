@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3770792350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c76de307f8beea506d43854a239bd3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 533df57b3a304ca0067d264e68050e2d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ab9c2938cc9f5d4c8228c45b0247533, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Res/Model/DamagePopup.prefab
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/8f586378b4e144a9851e7b34d9b748ee.ab

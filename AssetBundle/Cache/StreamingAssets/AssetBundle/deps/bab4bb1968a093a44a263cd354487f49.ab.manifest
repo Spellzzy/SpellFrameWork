@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2944927779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ceeb1fddb1b58fbe2077e33780c3d1d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdb2dcfb5cbb008132881f6d35c2aa14
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Animation/Orc/OrcAttack.anim
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/4ffcce8e97abeee45ba24378d46c2c98.ab

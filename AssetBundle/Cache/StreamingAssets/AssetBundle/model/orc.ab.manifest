@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3102341968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf1cf877c38bf74ded99a00fb44e2cf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cf4431c72b210184959c0064aec0f5f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 996336f0e1057b24caae61943b8b95f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14a1a62df58c43f996973b1a646e4706, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d6b6c9b4dce579429882ed485177aca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Model/Orc.prefab
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/22d81455238b7b649aa1661ec2803317.ab
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/deps/d3df8c8b3a27b8b44a8117d2f0e38800.ab

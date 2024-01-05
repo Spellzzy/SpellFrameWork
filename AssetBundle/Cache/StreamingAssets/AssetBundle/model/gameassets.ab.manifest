@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2619195985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f41a89a8e1291aa925223ad6e038b0e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05c8df9079a4b8b664f02af7bfb951ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c95a355f21911544b95ad9203558e1c4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Model/GameAssets.prefab
+Dependencies:
+- I:/Project/SpellFrameWork/AssetBundle/Cache/StreamingAssets/AssetBundle/model/damagepopup.ab
